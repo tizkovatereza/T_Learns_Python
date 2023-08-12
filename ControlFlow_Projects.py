@@ -38,22 +38,48 @@ print("Magic 8-Ball's answer: " + answer)
   
 
 
-#Yes - definitely
-#It is decidedly so
-#Without a doubt
-#Reply hazy, try again
-#Ask again later
-#Better not tell you now
-#My sources say no
-#Outlook not so good
-#Very doubtful
-
-
-
-
-
 #[Name] asks: [Question]
 #Magic 8-Ball’s answer: [Answer]
 
 #Joe asks: Is this real life?
 #Magic 8-Ball's answer: Better not tell you now
+
+
+weight = 1.5
+
+#Ground Shipping
+
+
+if weight <= 2:
+  cost_ground = weight * 1.5 + 20
+elif weight <= 6:
+  cost_ground = weight * 3.0 + 20
+elif weight <= 10:
+  cost_ground = weight * 4.0 + 20
+else:
+  cost_ground = weight * 4.75 + 20
+
+
+print("Cost: " + str(cost_ground))
+
+cost_premium_ground = 125.00
+
+print("Premium Cost: " + str(cost_premium_ground))
+
+
+##############################################################################################################
+
+
+#Drone Shipping
+if weight <= 2:
+  drone_shipping = weight * 4.5 + 0
+elif weight <= 6:
+  drone_shipping = weight * 9.0 + 0
+elif weight <= 10:
+  drone_shipping = weight * 12.0 + 0
+else:
+  drone_shipping = weight * 14.25 + 0
+
+print("Drone Shipping Cost: " + str(drone_shipping))
+
+
