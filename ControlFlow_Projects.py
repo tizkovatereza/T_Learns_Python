@@ -4,7 +4,7 @@ answer = ""
 
 import random
 #Next, we’ll create a variable to store the randomly generated value. Declare a variable called random_number, and assign it to the function call:
-random_number = random.randint(1,9)
+random_number = random.randint(1,10)
 
 if random_number == 1:
   answer = "Yes - definitely"
@@ -24,11 +24,16 @@ elif random_number == 8:
     answer = "Outlook not so good"
 elif random_number == 9:
     answer = "Very doubtful"
+elif random_number == 10:
+    answer = "Why are you asking such dumb questions? Dont you have work to do?"
 else:
       answer = "Error"
 
+if name == "":
+  print("Question:" + question)
+else:
+  print(name + " asks: " + question)
 
-print(name + " asks: " + question)
 print("Magic 8-Ball's answer: " + answer)
   
 
