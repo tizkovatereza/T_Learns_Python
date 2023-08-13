@@ -1,14 +1,23 @@
+
+#Importing a library to write concurrent code using the async/await syntax
 import asyncio
+
+#With the logging module imported, you can use something called a “logger” to log messages that you want to see. Logging is a way to store information about your script and track events that occur
 import logging
 
+#Importing
 from e2b import Session
 
+#Importing
 id = "5udkAFHBVrGz"
 
+#Importing
 logging.basicConfig(level=logging.ERROR)
 
 
+#Importing
 async def main():
+    # Creates session with the given id
     session = await Session.create(id)
 
     # proc = await session.terminal.start(
@@ -39,6 +48,7 @@ async def main():
 
     await session.close()
     return
+
     await session.filesystem.write("test.txt", "Hello World")
 
     f = await session.filesystem.read("test.txt")
