@@ -1,2 +1,2 @@
-# T_Learns_Pythhon
+# T_Learns_Python
 My python journey
