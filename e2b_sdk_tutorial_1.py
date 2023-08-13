@@ -1,7 +1,8 @@
 ####################################################################################################
-# NICE CODE
+# When you run this code, you'll see a list of files and directories from the root directory (/) printed to the console.
+# If there are any errors during the process, those will be printed as well.
+#After listing the files, the session is closed, and the program ends.
 ####################################################################################################
-
 
 
 # Import the asyncio library for asynchronous programming
@@ -35,7 +36,3 @@ async def main():
 
 # Create a new event loop and run the 'main' asynchronous function until it completes
 asyncio.new_event_loop().run_until_complete(main())
-
-
-#########
-#When you run this code, you'll see a list of files and directories from the root directory (/) printed to the console. If there are any errors during the process, those will be printed as well. After listing the files, the session is closed, and the program ends.
