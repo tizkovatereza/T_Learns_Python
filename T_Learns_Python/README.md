@@ -10,5 +10,11 @@ This is a simple Python program that allows you to store and update values in ki
 
 ## How to Use the Program
 
-When you run the program, it will display the current list of exercises and their weights. To update the weight of an exercise, enter the name of the exercise when prompted, then enter the new weight. To exit the program, enter 'quit' when prompted for the name of the exercise.
+When you run the program, it will display the current list of exercises and their weights. 
+
+To update the weight of an exercise, enter the name of the exercise when prompted, then enter the new weight. 
+
+To add a new exercise, enter the name of the new exercise when prompted, then enter the weight for the new exercise. The program will then add the new exercise and its weight to the list.
+
+To exit the program, enter 'quit' when prompted for the name of the exercise.
 
