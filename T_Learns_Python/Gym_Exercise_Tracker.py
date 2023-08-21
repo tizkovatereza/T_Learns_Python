@@ -26,17 +26,17 @@ def add_exercise(exercise, weight):
 # Display the current list of exercises and their weights
 display_exercises()
 
-# Allow the user to update the weight of any exercise
+# Allow the user to update the weight of any exercise or add a new one
 while True:
-    exercise = input("Enter the name of the exercise to update, 'add' to add a new exercise, or 'quit' to exit: ")
+sweep/add-new-exercise-option
+    exercise = input("Enter the name of the exercise to update or add (or 'quit' to exit): ")
     if exercise.lower() == 'quit':
         break
-    elif exercise.lower() == 'add':
-        new_exercise = input("Enter the name of the new exercise: ")
-        new_weight = input("Enter the weight for the new exercise: ")
-        add_exercise(new_exercise, new_weight)
+    new_weight = input("Enter the new weight for the exercise: ")
+    if exercise not in gym_exercises:
+        print(f"Adding new exercise {exercise} with weight {new_weight}")
     else:
-        new_weight = input("Enter the new weight for the exercise: ")
-        update_exercise(exercise, new_weight)
-    print
+        print(f"Updating exercise {exercise} to new weight {new_weight}")
+
+        main
 
