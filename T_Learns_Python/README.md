@@ -1,3 +1,5 @@
+![Gym Exercise Tracker](https://example.com/path_to_image "Gym Exercise Tracker")
+
 # Gym Exercise Tracker
 
 This is a simple Python program that allows you to store and update values in kilograms for different gym exercises. The program returns a list of exercises and their corresponding weights, and provides an option to input a new value for any exercise.
