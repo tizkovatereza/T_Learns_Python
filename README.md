@@ -12,7 +12,7 @@ Rubric
 
 <h1 align="center">
 	
-d83d
+83d
 dd2e Awesome AI Agents
 	<p align="center">
 		<a href="https://discord.gg/U7KEcGErtQ" target="_blank">
@@ -27,7 +27,7 @@ dd2e Awesome AI Agents
   Try out E2B's <a href="https://e2b.dev/docs?ref=awesome-sdks">cloud runtime</a> for AI agents
 </h3>
 
-<h5 align="center">ud83d
+<h5 align="center">83d
 dc49 <a href="https://forms.gle/UXQFCogLYrPFvfoUA">Submit new product here</a></h5>
 
 <img src="assets/landscape-latest.png" width="100%" alt="Chart of AI Agents Landscape" />
@@ -38,7 +38,7 @@ We structured the list into two parts:
 - [Closed-source projects and companies](#lock-closed-source-projects-and-companies)
 
 The list is done according to our best knowledge, although definitely not comprehensive. Check out also <a href="https://github.com/e2b-dev/awesome-sdks-for-ai-agents">the Awesome List of SDKs for AI Agents</a>.
-Discussion and feedback appreciated! d83ddc9d
+Discussion and feedback appreciated! 83ddc9d
 
 ## Have anything to add?
 Create a pull request or fill in this [form](https://forms.gle/UXQFCogLYrPFvfoUA). Please keep the alphabetical order and in the correct category.
@@ -69,6 +69,8 @@ Feel free to reach out to us at [hello@e2b.](mailto:hello@e2b.).
 
 # :open_hands: Open-source projects
 
+## Category
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
@@ -91,6 +93,8 @@ Adala: Autonomous Data (Labeling) Agent framework
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## Category
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Agent4Rec is a recommender system simulator that utilizes 1,000 LLM-empowered generative agents. These agents, initialized from the MovieLens-1M dataset, exhibit diverse social traits and preferences. 
 
@@ -99,5 +103,4 @@ Agent4Rec is a recommender system simulator that utilizes 1,000 LLM-empowered ge
 ### Category
 
 ### Description
-- These agents are initialized from the [MovieLens-1M](https://grouplens.org/datasets/movielens/1m/) dataset, embodying varied social traits and preferences.
-- Each agent interacts with personalized movie recommendations in a page-by-page manner and undertakes vario
+- These agents are initialized from the [MovieLens-1M](https://grouplens.org/datasets/movielens/1m/) dataset, embod
