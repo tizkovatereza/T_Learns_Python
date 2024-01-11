@@ -28,7 +28,7 @@ def populate_csv(html_path, csv_path):
 
         logo_url = detail.find('img')
         if logo_url is not None:
-            # logo_url = logo_url['src']            
+            logo_url = logo_url['src']            
             agent_row["Image"] = logo_url
         else:
             agent_row["Image"] = ""

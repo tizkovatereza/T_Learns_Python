@@ -1,5 +1,5 @@
 Category,Name,Tagline,Image,Use-cases,Description,Links
-Open-source projects,Adala,Adala: Autonomous Data (Labeling) Agent framework,"<img alt=""Image"" src=""https://github.com/HumanSignal/Adala/raw/master/docs/src/img/logo-dark-mode.png""/>","General purpose, Build your own, Multi-agent","<ul>
+Open-source projects,Adala,Adala: Autonomous Data (Labeling) Agent framework,https://github.com/HumanSignal/Adala/raw/master/docs/src/img/logo-dark-mode.png,"General purpose, Build your own, Multi-agent","<ul>
 <li><strong>Reliable agents</strong>: Built on ground truth data for consistent, trustworthy results.</li>
 <li><strong>Controllable output</strong>: Tailor output with flexible constraints to fit your needs.</li>
 <li><strong>Specialized in data processing</strong>: Agents excel in custom data labeling and processing tasks.</li>
@@ -11,19 +11,24 @@ Open-source projects,Adala,Adala: Autonomous Data (Labeling) Agent framework,"<i
 <li><a href=""https://discord.gg/QBtgTbXTgU"">Discord</a></li>
 <li><a href=""https://github.com/HumanSignal/Adala"">GitHub</a></li>
 </ul>"
-Open-source projects,Agent4Rec,"Agent4Rec is a recommender system simulator that utilizes 1,000 LLM-empowered generative agents. These agents, initialized from the MovieLens-1M dataset, exhibit diverse social traits and preferences. ","<img alt=""Image"" src=""https://github.com/LehengTHU/Agent4Rec/raw/master/assets/sandbox.png""/>","General purpose, Build your own, Multi-agent","<ul>
+Open-source projects,Agent4Rec,"Agent4Rec is a recommender system simulator that utilizes 1,000 LLM-empowered generative agents. These agents, initialized from the MovieLens-1M dataset, exhibit diverse social traits and preferences. ",https://github.com/LehengTHU/Agent4Rec/raw/master/assets/sandbox.png,"General purpose, Build your own, Multi-agent","<ul>
 <li>These agents are initialized from the <a href=""https://grouplens.org/datasets/movielens/1m/"">MovieLens-1M</a> dataset, embodying varied social traits and preferences.</li>
 <li>Each agent interacts with personalized movie recommendations in a page-by-page manner and undertakes various actions such as watching, rating, evaluating, exiting, and interviewing. </li>
 </ul>","<ul>
 <li><a href=""https://arxiv.org/abs/2310.10108"">Paper</a></li>
 </ul>"
-Open-source projects,AgentForge,"A low-code framework designed for the swift creation, testing, and iteration of AI-powered autonomous agents and Cognitive Architectures, compatible with various LLM models.",,"General purpose, Build your own, Multi-agent","<ul>
+Open-source projects,AgentForge,"A low-code framework designed for the swift creation, testing, and iteration of AI-powered autonomous agents and Cognitive Architectures, compatible with various LLM models.",https://pbs.twimg.com/profile_images/1667167265060528129/l8S9vtP2_400x400.jpg,"General purpose, Build your own, Multi-agent","<ul>
 <li>Facilitates building custom agents and cognitive architectures with ease.</li>
 <li>Supports multiple LLM models including OpenAI, Anthropic's Claude, and local Oobabooga, allowing flexibility in running different models for different agents based on specific requirements.</li>
 <li>Provides customizable agent memory management and on-the-fly prompt editing for rapid development and testing.</li>
 <li>Comes with a database-agnostic design ensuring seamless extensibility, with straightforward integration with different databases like ChromaDB for various AI projects.</li>
-</ul>",
-Open-source projects,AgentGPT,"A browser-based implementation of AutoGPT, accessible via a no-code platform",,General purpose,"<ul>
+</ul>","<ul>
+<li><a href=""https://github.com/DataBassGit/AgentForge"">GitHub</a></li>
+<li><a href=""https://www.agentforge.net/"">Web</a></li>
+<li><a href=""https://discord.com/invite/ttpXHUtCW6"">Discord</a></li>
+<li><a href=""https://twitter.com/AgentForge"">X</a></li>
+</ul>"
+Open-source projects,AgentGPT,"A browser-based implementation of AutoGPT, accessible via a no-code platform",https://raw.githubusercontent.com/reworkd/AgentGPT/main/next/public/banner.png,General purpose,"<ul>
 <li>A no-code platform</li>
 <li>
 Process:<ul>
@@ -47,17 +52,16 @@ Stack<ul>
 <li><a href=""https://agentgpt.reworkd.ai/"">Website</a></li>
 <li><a href=""https://github.com/reworkd/AgentGPT"">GitHub</a></li>
 </ul>"
-Open-source projects,AgentPilot,"A cross-platform desktop app to create, manage, and chat with AI agents",,General purpose,"<ul>
+Open-source projects,AgentPilot,"A cross-platform desktop app to create, manage, and chat with AI agents",https://github.com/jbexta/AgentPilot/raw/master/docs/demo.png,General purpose,"<ul>
 <li>Integrated into Open Interpreter and MemGPT</li>
 <li>Group chats feature</li>
 </ul>","<ul>
-<li><a href=""agentpilot.io"">Web</a></li>
 <li><a href=""https://github.com/jbexta/AgentPilot"">GitHub</a></li>
 <li><a href=""https://twitter.com/AgentPilotAI"">X </a></li>
 <li>
 </li>
 </ul>"
-Open-source projects,Agents,Agents is an open-source library/framework for building autonomous language agents.,,"General purpose, Build your own, Multi-agent","<ul>
+Open-source projects,Agents,Agents is an open-source library/framework for building autonomous language agents.,https://github.com/aiwaves-cn/agents/raw/master/assets/agents-logo.png,"General purpose, Build your own, Multi-agent","<ul>
 <li><strong>Long-short Term Memory</strong>: Language agents in the library are equipped with both long-term memory implemented via VectorDB + Semantic Search and short-term memory (working memory) maintained and updated by an LLM.</li>
 <li><strong>Tool Usage</strong>: Language agents in the library can use any external tools via  <a href=""https://platform.openai.com/docs/guides/gpt/function-calling"">function-calling</a>  and developers can add customized tools/APIs  <a href=""https://github.com/aiwaves-cn/agents/blob/master/src/agents/Component/ToolComponent.py"">here</a>.</li>
 <li><strong>Web Navigation</strong>: Language agents in the library can use search engines to navigate the web and get useful information.</li>
@@ -71,7 +75,7 @@ Open-source projects,Agents,Agents is an open-source library/framework for build
 <li><a href=""https://agents-readthedocsio.readthedocs.io/en/latest/index.html"">Documentation</a></li>
 <li><a href=""https://twitter.com/wangchunshu/status/1702512370785100133"">Tweet</a></li>
 </ul>"
-Open-source projects,AgentVerse,"A platform designed for deploying multiple LLM-based agents in various applications, focusing on task-solving and simulation frameworks.",,"General purpose, Build your own, Multi-agent","<ul>
+Open-source projects,AgentVerse,"A platform designed for deploying multiple LLM-based agents in various applications, focusing on task-solving and simulation frameworks.",https://private-user-images.githubusercontent.com/11704492/264917097-6db1c907-b7fc-42f9-946c-89853a28f386.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ5Nzc0MDIsIm5iZiI6MTcwNDk3NzEwMiwicGF0aCI6Ii8xMTcwNDQ5Mi8yNjQ5MTcwOTctNmRiMWM5MDctYjdmYy00MmY5LTk0NmMtODk4NTNhMjhmMzg2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTExVDEyNDUwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkOGE4ZTcxZWIwZjVmYTBiODY3Yjg0YTkyNjlkZTYzYTY1Y2NjMGFjNWY3YmI4YzhmOWM0MGM0YTczMDUwOGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1apHki3k1pjQIuVDxfUUKKBVlsSLuNKN1U5jmj63ga0,"General purpose, Build your own, Multi-agent","<ul>
 <li>Assembles multiple agents to collaboratively accomplish tasks.</li>
 <li>Allows custom environments for observing or interacting with multiple agents.</li>
 </ul>","<ul>
@@ -81,7 +85,7 @@ Open-source projects,AgentVerse,"A platform designed for deploying multiple LLM-
 <li><a href=""https://discord.gg/gDAXfjMw"">Discord</a></li>
 <li><a href=""https://huggingface.co/spaces/AgentVerse/agentVerse"">Hugging Face</a></li>
 </ul>"
-Open-source projects,AI Legion,"A platform for agents to work together, similar in spirit to AutoGPT and Baby AGI, but written in TypeScript",,,"<ul>
+Open-source projects,AI Legion,"A platform for agents to work together, similar in spirit to AutoGPT and Baby AGI, but written in TypeScript","https://res.cloudinary.com/apideck/image/upload/w_1500,f_auto/v1681330426/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/ai-legion/screenshots/Screenshot_2023-04-12_at_22.13.24_d9kdoj.png","Multi-agent, Build-your-own","<ul>
 <li>An LLM-powered autonomous agent platform</li>
 <li>A framework for autonomous agents who can work together to accomplish tasks</li>
 <li>Interaction with agents done via console direct messages</li>
@@ -91,7 +95,7 @@ Open-source projects,AI Legion,"A platform for agents to work together, similar 
 <li><a href=""https://github.com/eumemic/ai-legion"">GitHub</a></li>
 <li><a href=""https://twitter.com/dysmemic"">Twitter</a></li>
 </ul>"
-Open-source projects,Aider,"A command line tool that lets you pair your program with GPT-3.5/GPT-4, to edit code stored in your local git repository",,"Coding, GitHub","<ul>
+Open-source projects,Aider,"A command line tool that lets you pair your program with GPT-3.5/GPT-4, to edit code stored in your local git repository",https://repository-images.githubusercontent.com/638629097/1d3d6251-f8be-4d11-bbb1-4e44b7364b74,"Coding, GitHub","<ul>
 <li>Aider is a command line tool that lets you pair program with GPT-3.5/GPT-4, to edit code stored in your local git repository</li>
 <li>You can start a new project or work with an existing repo. And you can fluidly switch back and forth between the aider chat where you ask GPT to edit the code and your own editor to make changes yourself</li>
 <li>Aider makes sure edits from you and GPT are committed to git with sensible commit messages. Aider is unique in that it works well with pre-existing, larger codebases</li>
@@ -100,7 +104,7 @@ Open-source projects,Aider,"A command line tool that lets you pair your program 
 <li>Author: <a href=""https://github.com/paul-gauthier"">Paul Gauthier</a> (Github)</li>
 <li><a href=""https://discord.com/invite/Tv2uQnR88V"">Discord Invite</a></li>
 </ul>"
-Open-source projects,AutoGen,A framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.,,"General purpose, Build your own, Multi-agent","<ul>
+Open-source projects,AutoGen,A framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.,https://github.com/microsoft/autogen/raw/main/website/static/img/autogen_agentchat.png,"General purpose, Build your own, Multi-agent","<ul>
 <li>A framework for developing LLM (Large Language Model) applications with multiple conversational agents.</li>
 <li>These agents can collaborate to solve tasks and can interact seamlessly with humans.</li>
 <li>It simplifies complex LLM workflows, enhancing automation and optimization.</li>
@@ -112,7 +116,7 @@ Open-source projects,AutoGen,A framework that enables the development of LLM app
 <li><a href=""https://discord.gg/pAbnFJrkgZ"">Discord</a></li>
 <li><a href=""https://twitter.com/pyautogen"">Twitter thread describing the system</a></li>
 </ul>"
-Open-source projects,AutoGPT,"An experimental open-source attempt to make GPT-4 fully autonomous, with >140k stars on GitHub",,General purpose,"<ul>
+Open-source projects,AutoGPT,"An experimental open-source attempt to make GPT-4 fully autonomous, with >140k stars on GitHub",https://news.agpt.co/wp-content/uploads/2023/04/Logo_-_Auto_GPT-B-800x363.png,General purpose,"<ul>
 <li>Chains together LLM ""thoughts"", to autonomously achieve whatever goal you set</li>
 <li>Internet access for searches and information gathering</li>
 <li>Long-term and short-term memory management</li>
@@ -137,7 +141,7 @@ Features added in release 0.4.0<ul>
 <li><a href=""https://discord.gg/autogpt/?utm_source=awesome-ai-agents"">Discord</a></li>
 <li>Author: <a href=""https://twitter.com/SigGravitas/?utm_source=awesome-ai-agents"">Significant Gravitas</a></li>
 </ul>"
-Open-source projects,Automata,Crafting a sophisticated system that autonomously generates its own code based on the context of your project.,,Coding,"<ul>
+Open-source projects,Automata,Crafting a sophisticated system that autonomously generates its own code based on the context of your project.,https://github.com/emrgnt-cmplxty/Automata/assets/68796651/f73f37ac-6335-4066-b9bc-79f9a2652cc1,Coding,"<ul>
 <li>Model: GPT 4</li>
 <li>Automata takes your project as a context, receives tasks, and executes the instructions seamlessly.</li>
 <li>
@@ -151,7 +155,7 @@ Features<ul>
 </ul>","<ul>
 <li>Author: <a href=""https://twitter.com/ocolegro"">Owen Colegrove</a></li>
 </ul>"
-Open-source projects,AutoPR,"AI-generated pull requests to fix issues, powered by ChatGPT",,"Coding, GitHub","<ul>
+Open-source projects,AutoPR,"AI-generated pull requests to fix issues, powered by ChatGPT",https://github.com/irgolic/AutoPR/raw/main/website/static/img/AutoPR_Mark_color.png,"Coding, GitHub","<ul>
 <li>
 Triggered by adding a label containing AutoPR to an issue, AutoPR will:<ul>
 <li>Plan a fix</li>
@@ -163,7 +167,7 @@ Triggered by adding a label containing AutoPR to an issue, AutoPR will:<ul>
 </ul>","<ul>
 <li><a href=""https://discord.com/invite/ykk7Znt3K6"">Discord</a></li>
 </ul>"
-Open-source projects,Autonomous HR Chatbot,A prototype enterprise application - an Autonomous HR Assistant powered by GPT-3.5.,,"HR, Business intelligence, Productivity","<ul>
+Open-source projects,Autonomous HR Chatbot,A prototype enterprise application - an Autonomous HR Assistant powered by GPT-3.5.,https://github.com/stepanogil/autonomous-hr-chatbot/raw/main/assets/sample_chat.png,"HR, Business intelligence, Productivity","<ul>
 <li>An agent that can answer HR related queries autonomously using the tools it has on hand.</li>
 <li>Powered by GPT-3.5</li>
 <li>
@@ -179,7 +183,7 @@ Current tools assigned to the agent (with more on the way):<ul>
 <li>Author: <a href=""https://twitter.com/Stepanogil"">Stephen Bonifacio</a></li>
 <li>Video Demo: <a href=""https://www.youtube.com/watch?v=id7XRcEIBvg&amp;ab_channel=StephenBonifacio"">Youtube Link</a></li>
 </ul>"
-Open-source projects,BabyAGI,A simple framework for managing tasks using AI,,General purpose,"<ul>
+Open-source projects,BabyAGI,A simple framework for managing tasks using AI,https://user-images.githubusercontent.com/21254008/235015461-543a897f-70cc-4b63-941a-2ae3c9172b11.png,General purpose,"<ul>
 <li>A pared-down version of the original <a href=""https://twitter.com/yoheinakajima/status/1640934493489070080?s=20"">Task-Driven Autonomous Agent</a></li>
 <li>Creates tasks based on the result of previous tasks and a predefined objective.</li>
 <li>The script then uses OpenAI's NLP capabilities to create new tasks based on the objective</li>
@@ -193,7 +197,7 @@ Open-source projects,BabyAGI,A simple framework for managing tasks using AI,,Gen
 <li><a href=""https://twitter.com/yoheinakajima"">Founder's Twitter</a></li>
 <li><a href=""https://twitter.com/yoheinakajima/status/1640934493489070080"">Twitter thread describing the system</a></li>
 </ul>"
-Open-source projects,BabyBeeAGI,A task management and functionality expansion on top of BabyAGI,,"General purpose, Productivity","<ul>
+Open-source projects,BabyBeeAGI,A task management and functionality expansion on top of BabyAGI,https://yoheinakajima.com/wp-content/uploads/2023/04/image.png,"General purpose, Productivity","<ul>
 <li>A more advanced version of the original BabyAGI code</li>
 <li>
 <ul>
@@ -210,7 +214,7 @@ Open-source projects,BabyBeeAGI,A task management and functionality expansion on
 <li><a href=""https://replit.com/@YoheiNakajima/BabyBeeAGI?v=1"">Replit</a></li>
 <li>Author: <a href=""https://twitter.com/yoheinakajima"">@yoheinakajima</a> (Twitter)</li>
 </ul>"
-Open-source projects,BabyCatAGI,"BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI",,General purpose,"<ul>
+Open-source projects,BabyCatAGI,"BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI",https://pbs.twimg.com/media/FwBwoRracAI99iP?format=jpg&name=medium,General purpose,"<ul>
 <li>Just 300 lines of code</li>
 <li>
 This was built as a d iteration on the original BabyAGI code in a lightweight way. Differences to BabyAGI include the following:<ul>
@@ -229,7 +233,7 @@ This was built as a d iteration on the original BabyAGI code in a lightweight wa
 <li><a href=""https://replit.com/@YoheiNakajima/BabyCatAGI"">Replit</a></li>
 <li>Author: <a href=""https://twitter.com/yoheinakajima"">@yoheinakajima</a> (Twitter)</li>
 </ul>"
-Open-source projects,BabyDeerAGI,"BabyDeerAGI is a mod of BabyAGI, at ~350 lines of code",,General purpose,"<ul>
+Open-source projects,BabyDeerAGI,"BabyDeerAGI is a mod of BabyAGI, at ~350 lines of code",https://pbs.twimg.com/media/Fx_tr0yaUAYP1Q0?format=jpg&name=medium,General purpose,"<ul>
 <li>
 Features<ul>
 <li>Parallel tasks (making it faster)</li>
@@ -245,7 +249,7 @@ Features<ul>
 <li><a href=""https://replit.com/@YoheiNakajima/BabyDeerAGI"">Replit</a></li>
 <li>Author: <a href=""https://twitter.com/yoheinakajima"">@yoheinakajima</a> (Twitter)</li>
 </ul>"
-Open-source projects,BabyElfAGI,"Newest mod of BabyDeerAGI, and the OG BabyAGI, at ~895 lines of code",,General purpose,"<ul>
+Open-source projects,BabyElfAGI,"Newest mod of BabyDeerAGI, and the OG BabyAGI, at ~895 lines of code",https://pbs.twimg.com/media/F0sHc04aMAEVn3D?format=jpg&name=medium,General purpose,"<ul>
 <li>
 Features<ul>
 <li>Skills class allows for creation of new skills</li>
@@ -260,7 +264,7 @@ Features<ul>
 <li><a href=""https://replit.com/@YoheiNakajima/BabyElfAGI"">Replit</a></li>
 <li>Author: <a href=""https://twitter.com/yoheinakajima"">@yoheinakajima</a> (Twitter)</li>
 </ul>"
-Open-source projects,BabyCommandAGI,"An AI agent designed to test what happens when you combine CLI and LLM, which are more traditional interfaces than GUI (created by @saten-private)",,"General purpose, Coding","<ul>
+Open-source projects,BabyCommandAGI,"An AI agent designed to test what happens when you combine CLI and LLM, which are more traditional interfaces than GUI (created by @saten-private)",https://github.com/saten-private/BabyCommandAGI/raw/main/docs/Architecture.png,"General purpose, Coding","<ul>
 <li>An AI agent based on @yoheinakajima's <a href=""https://github.com/yoheinakajima/babyagi"">BabyAGI</a> which executes shell commands</li>
 <li>Automatic Programming, Successfully created an app automatically just by providing feedback. The procedure can be found <a href=""https://twitter.com/saten_work/status/1674855573412810753"">here</a>.</li>
 <li>Automatic Environment Setup, Successfully installed a Flutter environment on Linux in a container, created the Flutter app, and launched it. The procedure can be found <a href=""https://twitter.com/saten_work/status/1667126272072491009"">here</a>.</li>
@@ -271,7 +275,7 @@ Open-source projects,BabyCommandAGI,"An AI agent designed to test what happens w
 <li><a href=""https://twitter.com/saten_work"">Founder's Twitter</a></li>
 <li><a href=""https://twitter.com/saten_work/status/1654571194111393793"">Twitter thread describing the system</a></li>
 </ul>"
-Open-source projects,BabyFoxAGI,Most recent mod of BabyAGI with a new parallel UI panel,,General purpose,"<ul>
+Open-source projects,BabyFoxAGI,Most recent mod of BabyAGI with a new parallel UI panel,https://pbs.twimg.com/media/F2Vpt4EbIAAa326?format=jpg&name=medium,General purpose,"<ul>
 <li>A mod of BabyElfAGI, in a series of mods w the naming of Baby<animal>AGI in alphabetical order</animal></li>
 <li>Self-improving task lists (FOXY method)
 - By storing a final reflection at the end, and pulling the most relevant reflection to guide future runs, BabyAGI slowly generates better and better tasks lists</li>
@@ -292,7 +296,7 @@ New skills<ul>
 <li><a href=""https://twitter.com/yoheinakajima/status/1697539193768116449"">Twitter thread describing the system</a></li>
 <li><a href=""https://replit.com/@YoheiNakajima"">Replit</a></li>
 </ul>"
-Open-source projects,BambooAI,The BambooAI library is a user-friendly semi-autonomous AI agent designed to make data exploration and analysis more accessible to non-programmers.,,Data analysis,"<ul>
+Open-source projects,BambooAI,The BambooAI library is a user-friendly semi-autonomous AI agent designed to make data exploration and analysis more accessible to non-programmers.,https://pbs.twimg.com/card_img/1745187734602313730/f-W5kbIU?format=jpg&name=medium,Data analysis,"<ul>
 <li>BambooAI runs in a loop (until user decides to end it).</li>
 <li>Allows mixing of different models with different capabilities, token costs and context windows for different tasks.</li>
 <li>Maintains the memory of previous conversations.</li>
@@ -307,13 +311,13 @@ Open-source projects,BambooAI,The BambooAI library is a user-friendly semi-auton
 <li><a href=""https://github.com/pgalko/BambooAI"">GitHub</a></li>
 <li><a href=""https://twitter.com/pgalko"">Creators's Twitter</a></li>
 </ul>"
-Open-source projects,BeeBot,An Autonomous AI Assistant designed to perform a wide range of practical tasks autonomously,,"General purpose, Productivity","<ul>
+Open-source projects,BeeBot,An Autonomous AI Assistant designed to perform a wide range of practical tasks autonomously,https://camo.githubusercontent.com/72231056f7393fa18ee2baa5cedf2688d1fc15478bb6131936e222e5d23ccbb6/68747470733a2f2f6572696b6c702e636f6d2f6d6173636f742e706e67,"General purpose, Productivity","<ul>
 <li>""BeeBot is currently a work in progress and should be treated as an early stage research project. Its focus is not on production usage at this time.""</li>
 </ul>","<ul>
 <li><a href=""https://github.com/AutoPackAI/beebot"">GitHub</a></li>
 <li><a href=""https://twitter.com/Douglas_Schon/status/1681094815021187072?s=20"">Tweet</a></li>
 </ul>"
-Open-source projects,Bloop,A GPT-4 powered semantic code search engine that uses an AI agent,,Coding,"<ul>
+Open-source projects,Bloop,A GPT-4 powered semantic code search engine that uses an AI agent,https://bloop.ai/_next/static/media/logo_white.b3bdedc0.svg,Coding,"<ul>
 <li>Powered by GPT-4 and semantic code search, precise code navigation</li>
 <li>Built on stack graphs and scope queries</li>
 <li>Fast code search and regex matching engine written in Rust</li>
@@ -326,7 +330,7 @@ Open-source projects,Bloop,A GPT-4 powered semantic code search engine that uses
 <li><a href=""https://bloop.ai/docs/getting-started"">""Getting started"" guide</a></li>
 <li><a href=""https://github.com/BloopAI/bloop/releases"">Bloop apps</a></li>
 </ul>"
-Open-source projects,BondAI,"A highly capable, autonomous AI Agent with an easy to use CLI, RESTful/WebSocket API, Pre-built Docker image and a robust suite of integrated tools.",,Coding,"<ul>
+Open-source projects,BondAI,"A highly capable, autonomous AI Agent with an easy to use CLI, RESTful/WebSocket API, Pre-built Docker image and a robust suite of integrated tools.",https://bondai.dev/assets/images/bondai-logo-79126f4fe643e15086ac08d8481e8611.png,Coding,"<ul>
 <li>Support for all GPT-N, Embeddings and Dall-E OpenAI Models</li>
 <li>Support for Azure OpenAI Services</li>
 <li>Easy to use SDK for integration into any application</li>
@@ -344,7 +348,7 @@ Open-source projects,BondAI,"A highly capable, autonomous AI Agent with an easy 
 <li><a href=""https://github.com/krohling/bondai"">Github Repository</a></li>
 <li><a href=""https://hub.docker.com/r/krohling/bondai"">Docker Image</a></li>
 </ul>"
-Open-source projects,Cal.ai,An open-source scheduling assistant built on Cal.com.,,Productivity,"<ul>
+Open-source projects,Cal.ai,An open-source scheduling assistant built on Cal.com.,https://3620107743-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpmUOqZjfGqNkiPmqgnMv%2Fuploads%2F9Qaq1hlaTcqKfrc9k4OG%2Fimage.png?alt=media&token=1ffe8530-19ff-4aea-b020-a99cdc224ce1,Productivity,"<ul>
 <li>Cal.ai can book meetings, summarize your week, and find time with others based on natural language.</li>
 <li>Responds flexibly to unseen tasks eg. ""move my second-last meeting to tomorrow morning"".</li>
 <li>Uses GPT-4 and LangChain Agent Executor under the hood.</li>
@@ -352,7 +356,7 @@ Open-source projects,Cal.ai,An open-source scheduling assistant built on Cal.com
 </ul>","<ul>
 <li>Authors: <a href=""https://github.com/calcom/cal.com/graphs/contributors"">Cal.com core team</a>, <a href=""https://github.com/dexterstorey"">Dexter Storey</a>, <a href=""https://github.com/tedspare"">Ted Spare</a></li>
 </ul>"
-Open-source projects,CAMEL,An agent architecture for “Mind” Exploration of Large Scale Language Model Society,,General purpose,"<ul>
+Open-source projects,CAMEL,An agent architecture for “Mind” Exploration of Large Scale Language Model Society,https://lh5.googleusercontent.com/EU3Cvb6NdRg0jQVlFaeH2wyWbDcH_KbEpUtcV9cUKeM4e8n88VLI_e9A8R47sXEqykUBprfcFkXj74fK_CbKqQ=w16383,General purpose,"<ul>
 <li>CAMEL is an open-source library designed for the study of autonomous and communicative agents.
 1)AI user agent: give instructions to the AI assistant with the goal of completing the task.</li>
 </ul>","<ul>
@@ -366,7 +370,7 @@ Exploration of Large Scale Language Model Society</a></li>
 <li><a href=""https://twitter.com/intent/follow?original_referer=https%3A%2F%2F1508613885-atari-embeds.googleusercontent.com%2F&amp;ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ECamelAIOrg&amp;screen_name=CamelAIOrg"">Twitter</a></li>
 <li>Authors: Guohao Li∗ Hasan Abed Al Kader Hammoud* Hani Itani* Dmitrii Khizbullin, Bernard Ghanem</li>
 </ul>"
-Open-source projects,ChatDev,A set of communicative agents for software development,,"Coding, Multi-agent","<ul>
+Open-source projects,ChatDev,A set of communicative agents for software development,https://github.com/OpenBMB/ChatDev/raw/main/misc/logo1.png,"Coding, Multi-agent","<ul>
 <li>ChatDev is a virtual software company driven by a multitude of intelligent agents assuming different roles such as CEO, CPO, CTO, programmer, reviewer, tester, and art designer, each represented by unique icons.</li>
 <li>These agents collaborate in a structured organizational environment, fulfilling the company's mission to ""revolutionize the digital world through programming."" They engage in functional seminars focusing on design, coding, testing, and documentation.</li>
 <li>ChatDev aims to provide an accessible, modular, and extensible platform based on large language models, facilitating the study of collective intelligence in a controlled setting.</li>
@@ -528,7 +532,7 @@ Open-source projects,GPT Researcher,GPT based autonomous agent that does online 
 <li><a href=""https://discord.com/invite/2pFkc83fRq"">Discord</a></li>
 <li>Author: <a href=""https://twitter.com/assaf_elovic"">Assaf Elovic</a></li>
 </ul>"
-Open-source projects,GPT Runner,Conversations with your files which selected! Manage and run your AI presets!,"<img alt=""image"" src=""https://repository-images.githubusercontent.com/640476297/30741f73-caac-48bc-b500-1b7d6efde4c4""/>","Research, Science","<ul>
+Open-source projects,GPT Runner,Conversations with your files which selected! Manage and run your AI presets!,https://repository-images.githubusercontent.com/640476297/30741f73-caac-48bc-b500-1b7d6efde4c4,"Research, Science","<ul>
 <li>Conversation with your files which selected by you, no embedding, no vector database!</li>
 <li>It's also a AI Prompt Storybook. You can use it to manage some AI preset with your team. It support any IDE and language developer. We provide cli to run web and VSCode extension, Jetbrains plugin is coming soon.</li>
 <li>Private first, all data is local.</li>
