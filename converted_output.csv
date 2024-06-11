@@ -591,6 +591,14 @@ Open-source projects,evo.ninja,AI agent that adapts its persona to achive tasks,
 <li><a href=""https://github.com/polywrap/evo.ninja/"">GitHub</a></li>
 <li><a href=""https://discord.com/invite/r3rwh69cCa"">Discord</a></li>
 </ul>"
+Open-source projects,Flowise,Low code Agent builder,https://flowiseai.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-color-high.e60de2f8.png&w=384&q=75,Build-your-own (agent-builing frameworks and platforms),"<ul>
+<li>Flowise is an open source low-code tool for developers to build customized LLM orchestration flow &amp; AI agents</li>
+</ul>","<ul>
+<li><a href=""https://flowiseai.com/"">Web</a></li>
+<li><a href=""https://github.com/FlowiseAI/Flowise"">GitHub</a></li>
+<li><a href=""https://x.com/FlowiseAI"">X (Twitter)</a></li>
+<li><a href=""https://www.linkedin.com/company/flowiseai/"">LinkedIn</a></li>
+</ul>"
 Open-source projects,Friday,AI developer assistant for Node.js,https://github.com/amirrezasalimi/friday/raw/main/screenshot.png,Coding,"<ul>
 <li>A developer assistant able to make whole nodejs project with unlimited prompts</li>
 <li>Provides a core prompt for building the foundation of your application</li>
@@ -1358,6 +1366,25 @@ Closed-source projects and companies,Adept AI,ML research and product lab buildi
 <li><a href=""https://www.adept.ai/?utm_source=awesome-ai-agents"">Twitter</a></li>
 <li><a href=""https://www.linkedin.com/company/adeptai/?utm_source=awesome-ai-agents"">Linkedin</a></li>
 </ul>"
+Closed-source projects and companies,AGENTS.inc,"Agents for company/regulations, search&monitoring",https://www.agents.inc/wp-content/uploads/2023/08/AGENTS.inc-logo.png,"Data analysis, Science, Monitoring, General purpose, Business intelligence, Supports open-source models","<ul>
+<li>
+AI agents for specific tasks:<ul>
+<li>Global News Radar AI Agent</li>
+<li>Company Identification AI Agent</li>
+<li>EU Policy Watch AI Agent</li>
+<li>Report AI Agent</li>
+<li>Scientific Knowledge Agent</li>
+<li>Patent Analysis Agent</li>
+</ul>
+</li>
+</ul>","<ul>
+<li><a href=""https://www.agents.inc/"">Web</a></li>
+<li><a href=""https://x.com/agentsdotinc"">X (Twitter)</a></li>
+<li><a href=""https://www.linkedin.com/company/agentsdotinc/"">LinkedIn</a></li>
+<li><a href=""https://www.youtube.com/c/agentsdotinc"">YouTube</a></li>
+<li><a href=""https://www.facebook.com/agentsdotinc"">Facebook</a></li>
+<li><a href=""https://github.com/agentsinc"">GitHub</a></li>
+</ul>"
 Closed-source projects and companies,AgentScale,"Your assistant, email writer, calendar scheduler",https://assets-global.website-files.com/64e879914c784ca827df6d6d/6594ec15997b8276945f35a6_logo_side_white_cropped-p-500.png,"General purpose, Productivity","<ul>
 <li>AgentScale is your very own AI personal assistant</li>
 </ul>","<ul>
@@ -1475,21 +1502,22 @@ Closed-source projects and companies,Athena Intelligence,24/7 Enterprise AI Data
 <li><a href=""https://www.athenaintelligence.ai/"">Web</a></li>
 <li><a href=""https://www.linkedin.com/in/brendongeils/"">Founder's LinkedIn</a></li>
 </ul>"
-Closed-source projects and companies,Ellipsis,"(Previously BitBuilder) ""Automated code reviews and bug fixes""",https://app.ellipsis.dev/images/ellipsis_github_logo_white_bg.png&w=640&q=75,"Coding, GitHub, GitLab","<ul>
-<li>Create an Issue</li>
-<li>Approve the Implementation Plan</li>
-<li>Review the Pull Request</li>
-<li>
-Features<ul>
-<li>Writing code</li>
-<li>Reviewing changes</li>
-<li>Addressing comments</li>
-<li>Answering questions</li>
-</ul>
-</li>
+Closed-source projects and companies,Avanzai,AI agents for portfolio risk and asset allocation,https://framerusercontent.com/images/abZ2DpGylwpNlOcvhmiTEHLvU.png?scale-down-to=512,"Coding, Data analysis, Research, Build-your-own (agent-builing frameworks and platforms), Finance, Multi-agent","<ul>
+<li>Avanzai helps users build autonomous AI agents that scrape news, fetch real time data and write Python code that helps them calculate risk exposures of their portfolio.</li>
+<li>Users can then deploy these agents to work around the clock, saving users time from doing this themselves.</li>
 </ul>","<ul>
-<li><a href=""https://docs.ellipsis.dev"">Docs</a></li>
-<li><a href=""https://www.ellipsis.dev/"">Installation</a></li>
+<li><a href=""https://avanz.ai/"">Web</a></li>
+<li><a href=""https://x.com/gmanmalena_"">Founder's X (Twitter)</a></li>
+<li><a href=""https://www.linkedin.com/company/avanzai/"">LinkedIn</a></li>
+</ul>"
+Closed-source projects and companies,Beam,A wide selection of AI agents automating workflows,https://framerusercontent.com/images/frmJOXg5roLaxUZMpGF6efXw9A.png?scale-down-to=512,"Data analysis, Productivity, Build-your-own (agent-builing frameworks and platforms), Business intelligence, Multi-agent","<ul>
+<li>End-to-end process and workflow automation with intelligent AI agents.</li>
+<li>With multiple B2B2C use-cases among a myriad of industries - healthcare, insurance, logistics, customer service, etc. - Beam allows businesses to customise their own automations or choose from existing agent templates to minimize the time it takes to execute complex tasks, repetitive tasks, and 100% of back office tasks.</li>
+</ul>","<ul>
+<li><a href=""https://beam.ai/"">Web</a></li>
+<li><a href=""https://x.com/join__beam"">X (Twitter)</a></li>
+<li><a href=""https://www.linkedin.com/company/beam-ai/"">LinkedIn</a></li>
+<li><a href=""https://www.youtube.com/@beam-ai"">YouTube</a></li>
 </ul>"
 Closed-source projects and companies,Blobr,AI business assistant connected to all your tools,https://assets-global.website-files.com/5f1ace21b47b368069989680/65cdd7ab62643c6baa204181_logo-blobr-white.svg,"Data analysis, Productivity, Marketig, Sales, Business intelligence","<ul>
 <li>Blobr is an AI assistant making sense of your business data stored in all your siloed SaaS. Reveal insights, understand variations and customer patterns without technical effort.</li>
@@ -1712,6 +1740,22 @@ Ducklings chat with users to define their goals, come up with engineering design
 <li><a href=""https://www.linkedin.com/company/duckie-ai/about/"">LInkedin</a></li>
 <li><a href=""https://discord.com/invite/JwQSRj9Wx2"">Discord</a></li>
 <li><a href=""https://www.ycombinator.com/companies/duckie-ai"">YCombinator profile</a></li>
+</ul>"
+Closed-source projects and companies,Ellipsis,"(Previously BitBuilder) ""Automated code reviews and bug fixes""",https://app.ellipsis.dev/images/ellipsis_github_logo_white_bg.png&w=640&q=75,"Coding, GitHub, GitLab","<ul>
+<li>Create an Issue</li>
+<li>Approve the Implementation Plan</li>
+<li>Review the Pull Request</li>
+<li>
+Features<ul>
+<li>Writing code</li>
+<li>Reviewing changes</li>
+<li>Addressing comments</li>
+<li>Answering questions</li>
+</ul>
+</li>
+</ul>","<ul>
+<li><a href=""https://docs.ellipsis.dev"">Docs</a></li>
+<li><a href=""https://www.ellipsis.dev/"">Installation</a></li>
 </ul>"
 Closed-source projects and companies,encode,Fully autonomous AI SW engineer in early stage,https://encode.software/_next/image?url=%2Fslack2.png&w=1920&q=75,Coding,"<ul>
 <li>in alpha</li>
@@ -1988,6 +2032,14 @@ Closed-source projects and companies,Kusho,AI agent for API testing,https://medi
 <li><a href=""https://www.linkedin.com/in/sourabhgawande/"">Sourabh Gawande - cofounder at Kusho</a></li>
 <li><a href=""https://www.linkedin.com/in/abhishek1315/"">Abhishek Saikia - cofounder at Kusho</a></li>
 </ul>"
+Closed-source projects and companies,Kwal,Voice Agents for Recruiting,"https://static.wixstatic.com/media/d84692_0e36f4d5a7974924a68d537a0c8184f9~mv2.png/v1/fill/w_302,h_166,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d84692_0e36f4d5a7974924a68d537a0c8184f9~mv2.png",Productivity,"<ul>
+<li>
+</li>
+</ul>","<ul>
+<li><a href=""https://www.kwal.ai/"">Web</a></li>
+<li><a href=""https://x.com/Kwal_AI"">X (Twitter)</a></li>
+<li><a href=""https://www.linkedin.com/company/kwal/about/"">LinkedIn</a></li>
+</ul>"
 Closed-source projects and companies,Lindy,AI assistant that can help with daily tasks,https://assets-global.website-files.com/63e15df811f9df22b231e58f/65473d5a31149f709f0d6c39_Group%201266.svg,Productivity,"<ul>
 <li>Lindy is still in a beta version</li>
 <li>
@@ -2042,6 +2094,15 @@ Closed-source projects and companies,Makedraft,Generate + edit HTML components w
 <li><a href=""https://www.youtube.com/@makedraft"">YouTube</a></li>
 <li><a href=""https://twitter.com/realdavidma"">Founder's X: David Ma</a></li>
 <li><a href=""https://github.com/makedraft"">GitHub</a></li>
+</ul>"
+Closed-source projects and companies,Manaflow,Automate technical business workflows,https://bookface-images.s3.amazonaws.com/logos/5e452772f87fd93353d19538fd8f1c9f3ab9b6eb.png,"Productivity, Coding, Workflow automation","<ul>
+<li>Manaflow empowers non-technical teams to automate recurring workflows that require analyzing data, connecting APIs, and taking actions.</li>
+<li>Using English, you can train Manaflow agents to interface with multiple third-party apps concurrently, host custom-built APIs, conduct customer interviews, build persistent data dashboards, run custom ML models, and execute actions for your business.</li>
+</ul>","<ul>
+<li><a href=""https://manaflow.ai/"">Web</a></li>
+<li><a href=""https://x.com/manaflowai"">X (Twitter)</a></li>
+<li><a href=""https://www.linkedin.com/company/manaflow-ai/"">LinkedIn</a></li>
+<li><a href=""https://www.ycombinator.com/companies/manaflow"">YCombinator</a></li>
 </ul>"
 Closed-source projects and companies,Minion AI,"By creator of GitHub Copilot, in waitlist stage",https://minion.ai/img/minion-1.png,General purpose,"<ul>
 <li><a href=""https://twitter.com/ai_minion"">Twitter</a></li>
@@ -2128,6 +2189,15 @@ Closed-source projects and companies,Phind,Personal programming and research AI 
 <li><a href=""https://discord.com/invite/S25yW8TebZ"">Discord</a></li>
 <li><a href=""https://twitter.com/phindsearch"">X (Twitter)</a></li>
 <li>CEO's Twitter: <a href=""https://twitter.com/MichaelRoyzen"">Michael Royzen</a></li>
+</ul>"
+Closed-source projects and companies,Powerdrill AI,AI agent that completes your data job 10x faster,https://media.licdn.com/dms/image/D4E0BAQGwWRCWd6izLg/company-logo_200_200/0/1686636701294?e=1726099200&v=beta&t=oFa1Z8ulQzNuasFcQBdrzZD8L1RJ_vjPhbbl4KXkN7g,"Data analysis, Productivity, Research, Marketig, Sales, Finance","<ul>
+<li>Powerdrill is an AI SaaS service centered around personal and enterprise datasets.</li>
+<li>Designed to unlock the full potential of your data, Powerdrill enables you to use natural language to effortlessly interact with your datasets for tasks ranging from simple Q&amp;As to insightful BI analysis.</li>
+<li>By breaking down barriers to knowledge acquisition and data analysis, Powerdrill boosts data processing efficiency exponentially.</li>
+</ul>","<ul>
+<li><a href=""https://powerdrill.ai/"">Web</a></li>
+<li><a href=""https://x.com/powerdrillai"">Twitter</a></li>
+<li><a href=""https://docs.powerdrill.ai/introduction"">Documentation</a></li>
 </ul>"
 Closed-source projects and companies,Proficient AI,Interaction APIs and SDKs for building AI agents,https://www.phind.com/images/phind_v2.svg,Build-your-own,"<ul>
 <li>An end-to-end solution, with which it takes 3 minutes not weeks to get a user-facing agent up and running in your app (currently 3 SDKs including React)</li>
@@ -2254,6 +2324,13 @@ Closed-source projects and companies,Sentius,AI Agent operates browser to do you
 <li><a href=""https://twitter.com/sentiusai"">X (Twitter)</a></li>
 <li>Team LinkedIn profiles: <a href=""https://www.linkedin.com/in/eugene-izhikevich/"">1</a>, <a href=""https://www.linkedin.com/in/dilyara-zharikova/"">2</a>, <a href=""https://www.linkedin.com/in/mikhail-burtsev-85a47b9/"">3</a>, <a href=""https://www.linkedin.com/in/danielkornev/"">4</a></li>
 </ul>"
+Closed-source projects and companies,ShopPal,"AI assistant, enhance shopping experience.",https://pbs.twimg.com/profile_images/1777239533094150144/a28xyvug_400x400.jpg,"Productivity, Research, Ecommerce","<ul>
+<li>""🛍️ShopPal: Your Curated AI Shopping Assistant🥂💰💳</li>
+<li>Curated AI shopping assistant, aiming to enhance and accompany your shopping experience.</li>
+<li>To enhance and accompany your shopping experience, ShopPal delivers summary insights, tailored recommendations, visual comparisons, and the best deals, which are all personalized just for you! ""</li>
+</ul>","<ul>
+<li><a href=""https://shoppal.ai"">Web</a></li>
+</ul>"
 Closed-source projects and companies,Spell,AutoGPT agents with plugins,https://spell.so/_next/static/media/logo.32731dee.svg,General purpose,"<ul>
 <li>""Delegate your tasks to autonomous AI agents. Transform your daily work with revolutionary and intuitive AI tools powered by GPT4""</li>
 <li>Access APIs like Zapier, Wolfram, etc.</li>
@@ -2377,6 +2454,15 @@ LLMs/model providers supported<ul>
 <li><a href=""https://twitter.com/wordware_ai"">X</a></li>
 <li><a href=""https://www.linkedin.com/company/wordware/"">LinkedIn</a></li>
 <li><a href=""https://www.linkedin.com/in/filipkozera/"">Filip Kozera - founder at Wordware</a></li>
+</ul>"
+Closed-source projects and companies,WorkBot,The Only AI Platform you will ever need!,https://workhub.ai/wp-content/uploads/2023/05/workhub-logo-horizontal.png,"Science, Productivity, Business intelligence","<ul>
+<li>""A privacy-centric Conversational AI platform leveraging AI Agents, Commercial and Opensource LLM support to centralize knowledge, thereby enriching collaboration and facilitating streamlined automation.</li>
+<li>WorkHub empowers users with versatile conversational bots and tools that provide insights, knowledge, and data-driven actions.</li>
+<li>With seamless integration capabilities, Workhub can be connected to any database and applications, ensuring comprehensive access to information.""</li>
+</ul>","<ul>
+<li><a href=""https://workhub.ai/"">Web</a></li>
+<li><a href=""https://www.linkedin.com/company/workhub-official/"">LinkedIn</a></li>
+<li><a href=""https://x.com/WorkHubOfficiaI"">X (Twitter)</a></li>
 </ul>"
 Closed-source projects and companies,Zapier Central,Work hand in hand with AI bots,https://bot-templates-dbuh9gyx1.vercel.zapier-deployment.com/_next/static/media/logo-color.9fac53e4.svg,"Build-your-own, Productivity, General purpose","<ul>
 <li>Zapier Central is an experimental AI workspace where you can teach bots to work across 6,000+ apps.</li>
